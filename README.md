@@ -9,7 +9,7 @@ I build intuitive and performant user interfaces with ReactJs. I will be delight
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [joyadongha@gmail.com](mailto:joyadongha@gmail.com)
-* 🧠  I'm learning Backend Development with Nodejs
+* 🧠  I'm learning Full Stack Software Engineering with ALX Africa
 * 🤝  I'm open to collaborating on Fintech Projects
 
 ### Skills
