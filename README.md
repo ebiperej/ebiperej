@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joseph Ebipere Oyadough
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joseph Ebipere Oyadougha
 ===============================================================================================================================================
 
-Frontend Engineer | ReactJs Developer
+Software Engineer
 -------------------
 
 I build intuitive and performant user interfaces with ReactJs. I will be delighted to build customer facing features through the entire software life-cycle, from design, implementation, testing, deployment and into production. I will work to optimize applications for performance and reliability.
