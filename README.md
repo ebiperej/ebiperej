@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joseph Ebipere Oyadougha
 ===============================================================================================================================================
 
-Software/Machine Learning Engineer
+Data Science and Machine Learning Enthusiast
 -------------------
 
-I build intuitive and performant user interfaces with ReactJs. I will be delighted to build customer facing features through the entire software life-cycle, from design, implementation, testing, deployment and into production. I will work to optimize applications for performance and reliability.
+I am a skilled web developer with years of experience building efficient solutions to complex problems. I specialize in using various programming languages, frameworks, and technologies to create customized and scalable web applications and websites. I'm a collaborative team player with excellent communication skills, who enjoys working closely with clients to understand their needs and deliver functional and visually appealing solutions.
 
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [joyadongha@gmail.com](mailto:joyadongha@gmail.com)
-* 🧠  I'm learning Full Stack Software Engineering with ALX Africa
+* 🧠  I'm learning Data Science and Machine Learning with Datacamp
 * 🤝  I'm open to collaborating on Fintech Projects
 
 ### Skills
