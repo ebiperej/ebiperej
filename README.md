@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science and Machine Learning Enthusiast
 -------------------
 
-I am a skilled web developer with years of experience building efficient solutions to complex problems. I specialize in using various programming languages, frameworks, and technologies to create customized and scalable web applications and websites. I'm a collaborative team player with excellent communication skills, who enjoys working closely with clients to understand their needs and deliver functional and visually appealing solutions.
+I am a skilled web developer with years of experience building efficient solutions to complex problems. In addition to my web development expertise, I also possess a strong background in data science and machine learning. I specialize in using various programming languages, frameworks, and technologies to create customized and scalable web applications and websites that incorporate data-driven functionalities.
+
+My proficiency in data science and machine learning allows me to enhance web applications with intelligent features such as predictive analytics, recommendation systems, and natural language processing. I have experience implementing algorithms and models to extract insights from large datasets, enabling businesses to make informed decisions based on data-driven analysis.
+
+As a collaborative team player, I thrive in working closely with clients to understand their unique requirements and translate them into functional and visually appealing solutions. I have excellent communication skills, which enable me to effectively convey technical concepts to non-technical stakeholders, ensuring a smooth and productive collaboration throughout the development process.
+
+Whether you need a web application that leverages data science techniques or a visually appealing website with seamless functionality, I am well-equipped to deliver high-quality solutions that meet your specific needs.
 
 
 * 🌍  I'm based in Nigeria
