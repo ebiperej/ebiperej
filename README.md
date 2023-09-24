@@ -1,22 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joseph Ebipere Oyadougha
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ebipere Joseph Oyadougha
 ===============================================================================================================================================
 
 Data Science and Machine Learning Enthusiast
 -------------------
 
-I am a skilled web developer with years of experience building efficient solutions to complex problems. In addition to my web development expertise, I also possess a strong background in data science and machine learning. I specialize in using various programming languages, frameworks, and technologies to create customized and scalable web applications and websites that incorporate data-driven functionalities.
-
-My proficiency in data science and machine learning allows me to enhance web applications with intelligent features such as predictive analytics, recommendation systems, and natural language processing. I have experience implementing algorithms and models to extract insights from large datasets, enabling businesses to make informed decisions based on data-driven analysis.
-
-As a collaborative team player, I thrive in working closely with clients to understand their unique requirements and translate them into functional and visually appealing solutions. I have excellent communication skills, which enable me to effectively convey technical concepts to non-technical stakeholders, ensuring a smooth and productive collaboration throughout the development process.
-
-Whether you need a web application that leverages data science techniques or a visually appealing website with seamless functionality, I am well-equipped to deliver high-quality solutions that meet your specific needs.
+Passionate and detail-oriented data enthusiast with a strong foundation in statistics, programming, and machine learning. Data Scientist committed to leveraging data-driven insights to solve real-world challenges. Skilled in data manipulation, visualizations, and analysis, utilizing Python and SQL. Eager to collaborate with diverse teams to uncover valuable patterns and trends from complex datasets. Continuous learner, always seeking to enhance skills and stay updated with the latest advancements in the field.
 
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [joyadongha@gmail.com](mailto:joyadongha@gmail.com)
 * 🧠  I'm learning Data Science and Machine Learning with Datacamp
-* 🤝  I'm open to collaborating on Fintech Projects
+* 🤝  I'm open to collaborating on challenging Projects
 
 ### Skills
 
