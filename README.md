@@ -9,7 +9,6 @@ Passionate and detail-oriented data enthusiast with a strong foundation in stati
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [joyadongha@gmail.com](mailto:joyadongha@gmail.com)
-* 🧠  I'm learning Data Science and Machine Learning with Datacamp
 * 🤝  I'm open to collaborating on challenging Projects
 
 
