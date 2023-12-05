@@ -8,7 +8,7 @@ Passionate and detail-oriented data enthusiast with a strong foundation in stati
 
 
 * 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [joyadongha@gmail.com](mailto:joyadongha@gmail.com)
+* ✉️  You can contact me at [ebiperejoseph@gmail.com](mailto:ebiperejoseph@gmail.com)
 * 🤝  I'm open to collaborating on challenging Projects
 
 
