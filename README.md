@@ -1,10 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ebipere Joseph Oyadougha
 ===============================================================================================================================================
 
-Data Science and Machine Learning Enthusiast
+Web Developer | Data Engineer | Passionate about Building Scalable Solutions
 -------------------
 
-Passionate and detail-oriented data enthusiast with a strong foundation in statistics, programming, and machine learning. Data Scientist committed to leveraging data-driven insights to solve real-world challenges. Skilled in data manipulation, visualizations, and analysis, utilizing Python and SQL. Eager to collaborate with diverse teams to uncover valuable patterns and trends from complex datasets. Continuous learner, always seeking to enhance skills and stay updated with the latest advancements in the field.
+As a web developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js), I create dynamic and user-friendly web applications that deliver exceptional user experiences. Recently, I expanded my skill set by taking courses in data engineering, focusing on data pipelines, database management, and ETL processes. This training equips me to harness data effectively and integrate it into my web solutions.
+
+I thrive on solving complex problems and am passionate about using technology to drive business success. My goal is to bridge the gap between web applications and data-driven insights, making me well-prepared for the evolving tech landscape.
+
+I’m eager to connect with like-minded professionals and explore opportunities that leverage my MERN stack expertise alongside my data engineering skills. Let’s collaborate to create innovative solutions!
 
 
 * 🌍  I'm based in Nigeria
@@ -14,7 +18,7 @@ Passionate and detail-oriented data enthusiast with a strong foundation in stati
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ebiperej" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joseph-oyadougha-2503186a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@joyadongha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19140085/joseph-ebipere" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ebipere_j" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/ebiperej" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joseph-oyadougha-2503186a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> <a href="https://www.stackoverflow.com/users/19140085/joseph-ebipere" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ebipere_j" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
