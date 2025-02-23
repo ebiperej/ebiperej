@@ -1,4 +1,4 @@
-Software/Data Engineer
+Software / Data Engineer
 -------------------
 
 I am a passionate web developer with a strong foundation in front-end and back-end technologies. Over the past few years, I have also been diving deep into data science and data engineering, expanding my expertise in handling, processing, and analyzing data efficiently. My goal is to create seamless digital experiences by merging my web development skills with data-driven solutions. Whether it's building scalable web applications or optimizing data workflows, I thrive on solving complex problems with innovative and efficient solutions.
