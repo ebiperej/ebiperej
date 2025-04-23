@@ -1,7 +1,21 @@
-Software / Data Engineer
+Frontend Engineer | React & Tailwind Specialist | Passionate About Building Responsive, User-Centered Web Interfaces
 -------------------
 
-I am a passionate web developer with a strong foundation in front-end and back-end technologies. Over the past few years, I have also been diving deep into data science and data engineering, expanding my expertise in handling, processing, and analyzing data efficiently. My goal is to create seamless digital experiences by merging my web development skills with data-driven solutions. Whether it's building scalable web applications or optimizing data workflows, I thrive on solving complex problems with innovative and efficient solutions.
+👋 Hi, I’m Ebipere Oyadougha, a passionate Frontend Engineer focused on building responsive, accessible, and performance-optimized web interfaces. I specialize in creating intuitive digital experiences using HTML, CSS, Tailwind CSS, JavaScript, and React.js — with a growing interest in Next.js for modern web applications.
+
+🌍 From freelance projects to personal startups, I’ve helped brands and small businesses establish a bold and clean web presence that speaks directly to their users. I’m a strong advocate for clean code, component reusability, and mobile-first design.
+
+🛠 Core Tech Stack:
+
+Languages: HTML5, CSS3, JavaScript (ES6+)
+
+Frameworks/Libraries: React.js, Next.js (beginner), Tailwind CSS, Bootstrap
+
+Tools: Git, GitHub, Figma, VS Code, Vercel, Netlify
+
+🚀 I'm continuously improving through hands-on projects and structured learning — currently diving deeper into performance optimization, accessibility, and UI animations.
+
+📬 Let’s connect if you’re looking for a frontend engineer who can build sleek, fast, and scalable user interfaces — or if you’re working on a mission-driven product that needs a sharp frontend touch.
 
 
 * 🌍  I'm based in Nigeria
